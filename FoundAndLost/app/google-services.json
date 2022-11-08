@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "284817088166",
+    "project_id": "foundandlost-cff73",
+    "storage_bucket": "foundandlost-cff73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284817088166:android:5282a3fae6d29383ea1e67",
+        "android_client_info": {
+          "package_name": "com.dataflair.foundandlost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284817088166-2jrga6sv4g0sgjna5hcpd1ic7jpju83s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4HeXZiHP0UF3RMhEzqyZ3vySBkhDN0sQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284817088166-2jrga6sv4g0sgjna5hcpd1ic7jpju83s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
